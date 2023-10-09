@@ -7,7 +7,7 @@
 
 **ℹ️ Informations:**
 
-Ces commandes ont été fait pour 1 serveur discord et non plusieurs serveur. Ne mettez pas votre bot en invitation par tout le monde, sinon les commande ne marcheront pas !
+**Ces commandes ont été fait pour 1 serveur discord et non plusieurs serveur. Ne mettez pas votre bot en invitation par tout le monde**, sinon les commande ne marcheront pas !
 
 **Configurer le projet**
 
